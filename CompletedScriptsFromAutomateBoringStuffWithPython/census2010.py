@@ -1,1 +1,0 @@
-allData = {'WY': {'Weston': {'pop': 3894, 'tracts': 1}}}
